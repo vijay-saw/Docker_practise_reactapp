@@ -6,4 +6,4 @@ COPY  . /MYAPP
 
 RUN  npm install
 
-CMD [ "npm","MYAPP" ]
+CMD [ "npm","start" ]
